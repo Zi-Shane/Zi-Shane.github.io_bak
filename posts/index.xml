@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Shane&#39;s Blog</title>
+    
+    
+    
+    <link>https://shanesnotes.tw/posts/</link>
+    <description>Recent content in Posts on Shane&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shanesnotes.tw/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>neovim安裝紀錄</title>
+      <link>https://shanesnotes.tw/posts/install-neovim/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanesnotes.tw/posts/install-neovim/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          neovim安裝及設定
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>產生ssh keypair免輸密碼登入Linux Server（ed25519）</title>
+      <link>https://shanesnotes.tw/posts/ssh-keygen/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanesnotes.tw/posts/ssh-keygen/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          產生新的ed25519 keypair來遠端登入server
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>在VSCode上使用jupyter notebook</title>
+      <link>https://shanesnotes.tw/posts/jupyter-on-vscode/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanesnotes.tw/posts/jupyter-on-vscode/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          如何讓VSCode可以像jupyter notebook的方式執行程式碼
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Ubuntu與網路時間同步</title>
+      <link>https://shanesnotes.tw/posts/ubuntu-time-synchronization/</link>
+      <pubDate>Sat, 19 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanesnotes.tw/posts/ubuntu-time-synchronization/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          最近使用kubectl遇到時間不同步的問題，導致憑證時間對不上的錯誤，這邊紀錄一下如何設定將ubuntu與NTP Server同步
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://shanesnotes.tw/posts/example_posts/my-first-post/</link>
+      <pubDate>Sat, 05 Sep 2020 20:05:06 +0800</pubDate>
+      
+      <guid>https://shanesnotes.tw/posts/example_posts/my-first-post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>https://shanesnotes.tw/posts/example_posts/hello/</link>
+      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      
+      <guid>https://shanesnotes.tw/posts/example_posts/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;https://shanesnotes.tw/img/hello.jpg&#34;/&gt;
+          
+        
+        
+        
+          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
